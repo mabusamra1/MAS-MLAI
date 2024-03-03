@@ -1,5 +1,5 @@
 ## Project Name: Analysis of Customer Acceptance of Coupon
-
+### By Mohammad Abu-Samra
 In this project we will follow the CRISP-DM process to try answer the question, will the customer accept the coupon?  The short term goal is to focus on the first 3 phases of the process: Business Understanding, Data Understanding and Data Preparation by utilizing the visualizing and probability distributions techniques to distinguish between customers who accepted a driving coupon versus those that did not.
 
 ### 1. Business Understanding
@@ -298,3 +298,5 @@ The conditional probabilities plot shows that the drivers with Friend passenger 
 ### 5. Next Step and Future Work
 
 Conducting more deeper analysis of the other driver characteristics combinations to predict the impacting features.  Also, preparing the data further to be ready for machine learning modeling, and to select the best model suites the case study.   
+
+**Link to the Juypter Notebook** (https://github.com/mabusamra1/MAS-MLAI/blob/main/Coupon.ipynb)
