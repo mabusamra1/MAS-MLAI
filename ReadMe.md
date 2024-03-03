@@ -296,7 +296,11 @@ From the catplot diagram, most of the drivers who accepted/rejected a coupon wer
 The conditional probabilities plot shows that the drivers with Friend passenger has the highest probability to accept the Coffee House coupon. The driver traveling without passengers (Alone) has the highest probability to reject the Coffee House coupon.  
     
  ![Thumbnail](https://github.com/mabusamra1/MAS-MLAI/blob/main/images/pCoffeeHouseCouponAccptRejPassengerType.png)
-**Figure-16:** [Conditional Probability of Accepting the Coffee House Coupon per PAssenger Type](https://github.com/mabusamra1/MAS-MLAI/blob/main/images/pCoffeeHouseCouponAccptRejPassengerType.png)
+**Figure-16:** [Conditional Probability of Accepting the Coffee House Coupon per Passenger Type](https://github.com/mabusamra1/MAS-MLAI/blob/main/images/pCoffeeHouseCouponAccptRejPassengerType.png)
+
+### 4.2 Aanalysis Summary
+
+The Dataset is biased for the Coffee House coupon and when the driver is alone.  The best time to send the coupon is in the spring/summer time when the temperature around 80F.  The Coffee House coupon has the highest acceptance to rejection ratio, almost (1:1) ratio.  The Carry Out and Cheap restaurants have the best acceptance to rejection ratios.  The best acceptance rate based on the driver age between 21 and 31 years old, who are single or married partners, with average income between 18K to 60K, who are unemployed or students or work in the computer and math fields or who has a Bachler or some college degrees.  The recommendation for the business is to focus on targeting the drivers with these characteristics to improve the coupon acceptance rates.
 
 ### 5. Next Step and Future Work
 
