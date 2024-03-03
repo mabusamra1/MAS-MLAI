@@ -131,7 +131,7 @@ Final data for analysis and modeling (if desired)
 On this process, we handle the data based on the problem we find during the data understanding phase. Based on our finding, the following process was executed:
 
 a) Fixed the age values and converted it to numeric\
-b) Shortened the occupation column values\
+b) Shortened the occupation, education and coupon columns values\
 c) converted the columns (Bar,CarryAway,CoffeeHouse,RestaurantLessThan20, Restaurant20To50) values and converting them to numeric'\
 d) Converted the expiration column to numeric in hours\
 e) Fixed the income column and converting the values to numeric (taking the average)\
