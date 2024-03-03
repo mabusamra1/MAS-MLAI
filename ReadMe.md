@@ -228,7 +228,7 @@ The temperature histogram shows that the coupon was best accepted when the tempe
 #### 4.1.2 Observations
 
 #### 4.1.2.1 Heatmap Anaylisis¶
-Since this is a classification use case, there is no significant correlation between the coupon acceptance/rejection represented by the Y column and the other features. It was noticed that there is a 100% negative correlation between the same direction and opossite direction of the shop destination. However, this does not impact the driver decision om whether to accept or reject the coupon.
+Since this is a classification use case, there is no significant correlation between the coupon acceptance/rejection represented by the Y column and the other features. It was noticed that there is a 100% negative correlation between the same direction and opossite direction of the shop destination. However, this does not impact the driver decision on whether to accept or reject the coupon.
 
 ![Thumbnail](https://github.com/mabusamra1/MAS-MLAI/blob/main/images/couponCorrHeatmap.png)
 
