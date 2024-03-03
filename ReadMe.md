@@ -293,7 +293,7 @@ From the catplot diagram, most of the drivers who accepted/rejected a coupon wer
 
 <h4 style="color:black"> 4.1.2.10 Further Analysis Conclusion</h4>  
 <p style="color:black"> The above analysis showed that there is no single feature pattern can impact the driver decision with high percentage.  The drivers' decisions were driven by collection of features.  Because the data is biased as shown in section 4.1.1 above, I think the joint/conditional probability seems the best approach to properly predict the drivers' decisions. Interestingly, I noticed that the Coffee House coupon has the most acceptance rate among all the coupon types so I decided to explore it further with conditional probabilities.
-The conditional probabilities plot shows that the drivers with Friend passenger has the highest probability to reject the Coffee House coupon. The driver traveling without passengers (Alone) has the highest probability to accept the Coffee House coupon.  
+The conditional probabilities plot shows that the drivers with Friend passenger has the highest probability to accept the Coffee House coupon. The driver traveling without passengers (Alone) has the highest probability to reject the Coffee House coupon.  
     
  ![Thumbnail](https://github.com/mabusamra1/MAS-MLAI/blob/main/images/pCoffeeHouseCouponAccptRejPassengerType.png)
 **Figure-16:** [Conditional Probability of Accepting the Coffee House Coupon per PAssenger Type](https://github.com/mabusamra1/MAS-MLAI/blob/main/images/pCoffeeHouseCouponAccptRejPassengerType.png)
