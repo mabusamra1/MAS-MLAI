@@ -2,7 +2,7 @@
 ### By Mohammad Abu-Samra
 In this project we will follow the CRISP-DM process to try answer the question, will the customer accept the coupon?  The short term goal is to focus on the first 3 phases of the process: Business Understanding, Data Understanding and Data Preparation by utilizing the visualizing and probability distributions techniques to distinguish between customers who accepted a driving coupon versus those that did not.
 
-![image](https://github.com/mabusamra1/MAS-MLAI/assets/156336663/22ce9c05-add1-4033-9d9a-8f1a09974c95)
+![image](https://github.com/mabusamra1/MAS-MLAI/blob/main/images/CRISP-DM.png.jpg)
 
 
 ### 1. Business Understanding
