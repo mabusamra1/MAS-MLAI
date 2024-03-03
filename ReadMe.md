@@ -131,7 +131,7 @@ Final data for analysis and modeling (if desired)
 On this process, we handle the data based on the problem we find during the data understanding phase. Based on our finding, the following process was executed:
 
 a) Fixed the age values and converted it to numeric\
-b) Shortened the occupation column values\
+b) Shortened the occupation, education and coupon columns values\
 c) converted the columns (Bar,CarryAway,CoffeeHouse,RestaurantLessThan20, Restaurant20To50) values and converting them to numeric'\
 d) Converted the expiration column to numeric in hours\
 e) Fixed the income column and converting the values to numeric (taking the average)\
@@ -266,7 +266,7 @@ From the catplot diagram, most of the drivers who accepted/rejected a coupon wer
 <p style="color:black">The catplot/count percentage shows that the unemployed, students and drivers who work in the Computer and Math fields have the highest acceptance rate of a coupon with an average about ($7.3$%) 
     
 ![Thumbnail](https://github.com/mabusamra1/MAS-MLAI/blob/main/images/couponAccptRejOccupation.png)
-**Figure-12:** [Coupon Acceptance Rejection per Driver's Income](https://github.com/mabusamra1/MAS-MLAI/blob/main/images/couponAccptRejOccupation.png)
+**Figure-12:** [Coupon Acceptance Rejection by Driver's Occupation](https://github.com/mabusamra1/MAS-MLAI/blob/main/images/couponAccptRejOccupation.png)
 
 
 <h4 style="color:black"> 4.1.2.7 Drivers' Education Impact Analysis</h4>  
