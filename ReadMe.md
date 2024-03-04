@@ -180,7 +180,7 @@ Finally, after careful and rigorous data cleansing, we acquire our final data th
 | 25  |Y                    |12017 non-null  int64 |
 
 ### 4. Data Understanding through Analysis
-The CRISP-DM process nature is an itterative one. We can go back and forth between process to make sure it fits the business and data mining goals. Here, we go back to data understanding phase to further explore and analyze the data before the modeling phase (out of scope for this project).
+The CRISP-DM process nature is an itterative one, so we can go back and forth between process to make sure it fits the business and data mining goals. Here, we go back to data understanding phase to further explore and analyze the data before the modeling phase (out of scope for this project).
 
 #### 4.1 Exploratory Data Analysis
 The process of exploring and visualizing insight from the data is called Exploratory Data Analysis (EDA).
